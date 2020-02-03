@@ -5,3 +5,5 @@ para que você possa competir com outros usuários e chegar até topo do placar,
 Esse repostório contém todos os desafios disponíveis no servidor, e recursos para te ajudar a resolve-los.
 
 <b>Convite do servidor: https://discord.gg/2avt46q</b>
+
+Lembre-se de que na grande maioria dos desafios a linguagem é livre. Se não achar o arquivo específico para o desafio que você busca, você pode aplicar para se tornar um staff do servidor e ajudar com o projeto.
